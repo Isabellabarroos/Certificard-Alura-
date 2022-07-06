@@ -1,2 +1,4 @@
-# Certificard-Alura-
-Meu primeiro Certificard simples.
+# Certificard
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/isabella-barros/pen/ZELJVPp](https://codepen.io/isabella-barros/pen/ZELJVPp).
+
